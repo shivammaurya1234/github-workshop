@@ -1,0 +1,36 @@
+   git init                                                       
+   clear                                                         
+  git init                                                      
+  git status                                                    
+   clear                                                         
+   ls                                                            
+   clear                                                         
+   git status                                                    
+   lear                                                          
+  clear                                                         
+  git add testing.py                                            
+   git status                                                    
+  git rm --cached testing.py                                    
+   git status                                                    
+   clear                                                         
+   git add.                                                      
+   git status                                                    
+   get add testing.py                                            
+   git add testing.py                                            
+   git status                                                    
+   clear                                                         
+   git add .                                                     
+   git status                                                    
+   clear                                                         
+   git commit -m "added testing files"                           
+    git config --global user.email "shivammaurya23012007@gmail...
+   git config --global user.name "Shivam maurya"                
+  clear                                                          
+   clear                                                         
+  git commit -m "added testing files"                           
+   git status                                                    
+   rm testing.py                                                 
+   git status                                                    
+   git restore testing.py                                        
+   git status                                                    
+   clear 
