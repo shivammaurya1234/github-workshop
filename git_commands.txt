@@ -33,4 +33,27 @@
    git status                                                    
    git restore testing.py                                        
    git status                                                    
+   clear
+    git add git_command.txt                                       
+   git status                                                    
+   git add git_commanda.txt                                      
+   git status                                                    
+   git add .                                                     
+   git status                                                    
+   git status                                                    
+   git commit -m "added git commands"                            
+   git status                                                    
+   clear                                                         
+   git remote add origin https://github.com/shivammaurya1234/g...
+   git remote -v                                                 
+   git status                                                    
+   git push origin master                                        
+   git remote -v                                                 
+   git remote set-urlorigin https://...
+   clear                                                         
+   git remote -v                                                 
+   git remote set-url origin https://...
+   clear                                                         
+   git remote -v                                                 
+   git push origin master                                        
    clear 
